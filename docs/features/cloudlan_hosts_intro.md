@@ -25,7 +25,7 @@ Servers feature is built for cases where you have an always-on machine/device/VM
 
  > #### Your Free forever room comes with 1 server license, learn how to adopt the servers/hosts
 
-Click on **Next** to learn more on How to Adopt a Server or Host.
+
 
 ---
 
